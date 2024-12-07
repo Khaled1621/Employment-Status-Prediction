@@ -96,8 +96,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 employment-status-prediction/
 │-- 2024_PersonalityTraits_SurveyData.csv
-│-- employment_status_prediction.py
 │-- README.md
+│-- employment_status_prediction.ipynb
+│-- employment_status_prediction.py
 ```
 
 ## Future Improvements
